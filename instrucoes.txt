@@ -1,0 +1,5 @@
+controllers/userController.js: Contém a lógica de registro e login.
+models/User.js: Define o modelo do usuário e criptografa a senha antes de salvar.
+routes/user_route.js: Define as rotas para registro e login.
+
+meu ip: 192.168.15.14
